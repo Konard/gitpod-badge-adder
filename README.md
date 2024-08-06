@@ -1,2 +1,2 @@
 # gitpod-badge-adder
-if repository has README.md then GitPod badge is added
+if repository has README.md then GitPod badge is added to README.md
